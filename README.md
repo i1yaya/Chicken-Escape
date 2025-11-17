@@ -1,6 +1,6 @@
 # Chicken Escape 🐔
 
-**Chicken Escape** is an iOS app featuring exciting mini-games where you must help the chicken escape various obstacles.  
+**Chicken Escape** is a SwiftUI mini-game where chickens must escape from a fox.
 Built with **SwiftUI**, the app combines fun gameplay, smooth animations, and interactive challenges.
 
 ![Main Menu](Screenshots/mainMenu.png)
