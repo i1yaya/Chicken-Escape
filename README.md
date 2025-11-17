@@ -10,11 +10,9 @@ Built with **SwiftUI**, the app combines fun gameplay, smooth animations, and in
 
 ## 🎮 Features
 
-- Multiple mini-games in one app
 - Fun and addictive gameplay
 - Smooth animations and intuitive UI
 - Optimized for iOS 16.0+
-- Includes sounds, images, and interactive assets
 
 ---
 
